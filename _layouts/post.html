@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+</head>
+<body>
+  <header>
+    <div class="wrapper">
+      <h1><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrapper">
+      <article>
+        <header style="border-bottom: 1px solid var(--border-color); padding-bottom: 20px; margin-bottom: 30px;">
+          <h1 style="margin-bottom: 10px;">{{ page.title }}</h1>
+          <p style="color: var(--text-secondary); margin: 5px 0;">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+            {% if page.author %} by <strong>{{ page.author }}</strong>{% endif %}
+          </p>
+          {% if page.categories %}
+            <p style="color: var(--text-secondary); font-size: 0.9em; margin: 5px 0;">
+              Categories: 
+              {% for category in page.categories %}
+                <span style="background-color: var(--bg-secondary); padding: 3px 8px; border-radius: 3px; margin-right: 5px;">{{ category }}</span>
+              {% endfor %}
+            </p>
+          {% endif %}
+        </header>
+
+        <div class="post-content">
+          {{ content }}
+        </div>
+
+        {% if page.tags %}
+          <footer style="border-top: 1px solid var(--border-color); padding-top: 20px; margin-top: 40px;">
+            <p style="color: var(--text-secondary);">
+              <strong>Tags:</strong>
+              {% for tag in page.tags %}
+                <a href="{{ '/tags.html#' | append: tag | relative_url }}" style="background-color: var(--accent); color: white; padding: 3px 8px; border-radius: 3px; margin-right: 5px; text-decoration: none; display: inline-block;">#{{ tag }}</a>
+              {% endfor %}
+            </p>
+          </footer>
+        {% endif %}
+      </article>
+
+      <nav style="margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--border-color);">
+        <a href="{{ '/' | relative_url }}" style="color: var(--accent);">← Back to Home</a>
+      </nav>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrapper" style="text-align: center; color: var(--text-secondary); padding: 20px 0; border-top: 1px solid var(--border-color); margin-top: 40px;">
+      <p>&copy; 2026 {{ site.title }}. Built with GitHub Pages and Jekyll.</p>
+    </div>
+  </footer>
+</body>
+</html>
