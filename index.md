@@ -6,6 +6,17 @@ layout: default
 
 Peer to peer, like it's supposed to be.
 
+## Quick Share
+
+<div style="text-align: center; margin: 30px 0; padding: 30px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.15), rgba(242, 101, 34, 0.15)); border: 2px solid rgba(255, 107, 107, 0.4); border-radius: 16px;">
+  <p style="margin: 0 0 15px 0; color: var(--text-secondary); font-size: 0.95em;">Share this site with one link:</p>
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; align-items: center;">
+    <code style="background: var(--bg-tertiary); padding: 12px 20px; border-radius: 8px; color: #61dafb; font-weight: 600; flex: 1; min-width: 250px; text-align: center;">https://bit.ly/46Bv4hv</code>
+    <button onclick="navigator.clipboard.writeText('https://bit.ly/46Bv4hv'); this.textContent='✓ Copied!'; setTimeout(() => this.textContent='📋 Copy', 2000);" style="padding: 10px 20px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; border: none; border-radius: 8px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; font-size: 0.9em;">📋 Copy</button>
+  </div>
+  <p style="margin: 15px 0 0 0; color: var(--text-tertiary); font-size: 0.85em;">Use this link in videos, social media, and conversations</p>
+</div>
+
 ## About
 
 This project is dedicated to promoting Bitcoin self-sovereignty principles and peer-to-peer technologies.
@@ -77,4 +88,4 @@ Explore the repository to learn more about Bitcoin self-sovereignty and decentra
 
 ---
 
-*Built with GitHub Pages and Jekyll • Dark theme enabled • Bitcoin Lightning supported*
+*Built with GitHub Pages and Jekyll • Dark theme enabled • Bitcoin Lightning supported • Share: bit.ly/46Bv4hv*
