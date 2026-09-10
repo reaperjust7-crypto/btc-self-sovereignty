@@ -10,20 +10,33 @@ Peer to peer, like it's supposed to be.
 
 This project is dedicated to promoting Bitcoin self-sovereignty principles and peer-to-peer technologies.
 
+## Support This Project
+
+If you find this content valuable, you can support our work with Bitcoin Lightning:
+
+<div style="text-align: center; margin: 30px 0; padding: 40px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(242, 101, 34, 0.1)); border: 2px solid rgba(255, 107, 107, 0.3); border-radius: 16px;">
+  <h3 style="margin-top: 0; background: linear-gradient(135deg, #ff6b6b, #f26522); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">⚡ Support with Bitcoin Lightning</h3>
+  <p style="color: #a0a0a0; margin-bottom: 20px;">Help us continue creating content about Bitcoin self-sovereignty</p>
+  
+  <a href="lightning:reaperjust7_crypto@stacker.news" style="display: inline-block; margin: 10px; padding: 16px 40px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 1.1em; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(255, 107, 107, 0.3);">⚡ Tip with Lightning</a>
+  
+  <p style="color: #6f6f7a; font-size: 0.9em; margin-top: 15px;">Lightning Address: <code style="background: #2d2d2d; padding: 8px 12px; border-radius: 6px; color: #61dafb;">reaperjust7_crypto@stacker.news</code></p>
+</div>
+
 ## Subscribe
 
 Stay updated with our latest content and resources:
 
-<div style="text-align: center; margin: 30px 0; padding: 20px; background-color: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px;">
-  <h3 style="color: var(--accent); margin-top: 0;">Don't Miss Out</h3>
-  <p>Get updates on Bitcoin self-sovereignty and peer-to-peer technologies</p>
+<div style="text-align: center; margin: 30px 0; padding: 40px; background: linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary)); border: 1px solid var(--border-color); border-radius: 16px; box-shadow: 0 8px 32px rgba(255, 107, 107, 0.1);">
+  <h3 style="margin-top: 0; background: linear-gradient(135deg, #ff6b6b, #f26522); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Don't Miss Out</h3>
+  <p style="color: var(--text-secondary); margin-bottom: 25px;">Get updates on Bitcoin self-sovereignty and peer-to-peer technologies</p>
   
-  <div style="margin: 20px 0;">
-    <a href="https://substack.com/@justreaper" style="display: inline-block; margin: 10px; padding: 12px 24px; background-color: #ff6b6b; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#ff5252'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#ff6b6b'; this.style.transform='translateY(0)';">📰 Subscribe on Substack</a>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <a href="https://substack.com/@justreaper" style="display: inline-block; padding: 12px 28px; background: var(--bg-tertiary); color: white; text-decoration: none; border: 2px solid #ff6b6b; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">📰 Subscribe on Substack</a>
     
-    <a href="https://substack.com/@justreaper/rss" style="display: inline-block; margin: 10px; padding: 12px 24px; background-color: #f26522; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#e55a1a'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#f26522'; this.style.transform='translateY(0)';">📡 Substack RSS Feed</a>
+    <a href="https://substack.com/@justreaper/rss" style="display: inline-block; padding: 12px 28px; background: var(--bg-tertiary); color: white; text-decoration: none; border: 2px solid #f26522; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">📡 Substack RSS Feed</a>
     
-    <a href="/feed.xml" style="display: inline-block; margin: 10px; padding: 12px 24px; background-color: #ffa500; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#ff9500'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#ffa500'; this.style.transform='translateY(0)';">📡 Site RSS Feed</a>
+    <a href="/feed.xml" style="display: inline-block; padding: 12px 28px; background: var(--bg-tertiary); color: white; text-decoration: none; border: 2px solid #ffa500; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">📡 Site RSS Feed</a>
   </div>
 </div>
 
@@ -31,33 +44,29 @@ Stay updated with our latest content and resources:
 
 Explore our training videos and articles:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <div style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); padding: 20px; border-radius: 8px;">
-    <h3 style="margin-top: 0;">📺 Video Content</h3>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
+  <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); padding: 30px; border-radius: 12px; transition: all 0.3s ease;">
+    <h3 style="margin-top: 0; color: var(--accent-primary);">📺 Video Content</h3>
     <p style="color: var(--text-secondary); margin-bottom: 15px;">Watch our latest Bitcoin self-sovereignty tutorials and guides</p>
-    <a href="https://youtube.com/@BlancaEnterprises" style="display: inline-block; padding: 10px 20px; background-color: var(--accent); color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='var(--accent-alt)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='var(--accent)'; this.style.transform='translateY(0)';">Visit YouTube Channel</a>
-    <br/><br/>
-    <small style="color: var(--text-secondary);">RSS Feed: <code>https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID</code></small>
+    <a href="https://youtube.com/@BlancaEnterprises" style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">Visit YouTube Channel</a>
   </div>
   
-  <div style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); padding: 20px; border-radius: 8px;">
-    <h3 style="margin-top: 0;">📰 Written Content</h3>
+  <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); padding: 30px; border-radius: 12px; transition: all 0.3s ease;">
+    <h3 style="margin-top: 0; color: var(--accent-primary);">📰 Written Content</h3>
     <p style="color: var(--text-secondary); margin-bottom: 15px;">Read in-depth articles about Bitcoin and peer-to-peer technologies</p>
-    <a href="https://substack.com/@justreaper" style="display: inline-block; padding: 10px 20px; background-color: var(--accent); color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='var(--accent-alt)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='var(--accent)'; this.style.transform='translateY(0)';">Read Substack Articles</a>
-    <br/><br/>
-    <small style="color: var(--text-secondary);">RSS Feed: <code>https://substack.com/@justreaper/rss</code></small>
+    <a href="https://substack.com/@justreaper" style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">Read Substack Articles</a>
   </div>
 </div>
 
 ## RSS Feed Guide
 
-<div style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div style="background: var(--bg-secondary); border: 1px solid var(--border-color); padding: 30px; border-radius: 12px; margin: 30px 0;">
   <h3 style="margin-top: 0;">How to Subscribe</h3>
   <p>Choose your preferred RSS reader and add any of these feeds:</p>
   <ul style="color: var(--text-secondary);">
-    <li><strong>Substack RSS:</strong> <code>https://substack.com/@justreaper/rss</code></li>
-    <li><strong>Site RSS:</strong> <code>https://your-domain.com/feed.xml</code></li>
-    <li><strong>YouTube RSS:</strong> <code>https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID</code></li>
+    <li><strong>Substack RSS:</strong> <code style="background: #2d2d2d; padding: 4px 8px; border-radius: 4px;">https://substack.com/@justreaper/rss</code></li>
+    <li><strong>Site RSS:</strong> <code style="background: #2d2d2d; padding: 4px 8px; border-radius: 4px;">https://your-domain.com/feed.xml</code></li>
+    <li><strong>YouTube RSS:</strong> <code style="background: #2d2d2d; padding: 4px 8px; border-radius: 4px;">https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID</code></li>
   </ul>
   <p><strong>Popular RSS Readers:</strong> Feedly, Inoreader, The Old Reader, Newsblur, or any standard RSS aggregator</p>
 </div>
@@ -68,4 +77,4 @@ Explore the repository to learn more about Bitcoin self-sovereignty and decentra
 
 ---
 
-*Built with GitHub Pages and Jekyll • Dark theme enabled • RSS feeds available*
+*Built with GitHub Pages and Jekyll • Dark theme enabled • Bitcoin Lightning supported*
