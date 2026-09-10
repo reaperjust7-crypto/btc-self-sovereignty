@@ -53,9 +53,9 @@ Stay updated with our latest content and resources:
 
 ## Training & Resources
 
-Explore our training videos and articles:
+Explore our training videos, articles, and recommended tools:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin: 30px 0;">
   <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); padding: 30px; border-radius: 12px; transition: all 0.3s ease;">
     <h3 style="margin-top: 0; color: var(--accent-primary);">📺 Video Content</h3>
     <p style="color: var(--text-secondary); margin-bottom: 15px;">Watch our latest Bitcoin self-sovereignty tutorials and guides</p>
@@ -66,6 +66,12 @@ Explore our training videos and articles:
     <h3 style="margin-top: 0; color: var(--accent-primary);">📰 Written Content</h3>
     <p style="color: var(--text-secondary); margin-bottom: 15px;">Read in-depth articles about Bitcoin and peer-to-peer technologies</p>
     <a href="https://substack.com/@justreaper" style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">Read Substack Articles</a>
+  </div>
+
+  <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); padding: 30px; border-radius: 12px; transition: all 0.3s ease;">
+    <h3 style="margin-top: 0; color: var(--accent-primary);">🛠️ Recommended Tools</h3>
+    <p style="color: var(--text-secondary); margin-bottom: 15px;">Hardware wallets and tools for Bitcoin self-custody</p>
+    <a href="/products.html" style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #ff6b6b, #f26522); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: all 0.3s ease;">View Products</a>
   </div>
 </div>
 
