@@ -1,0 +1,8 @@
+title: BTC Self-Sovereignty
+description: Peer to peer, like it's supposed to be
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
