@@ -12,9 +12,10 @@ This project is dedicated to promoting Bitcoin self-sovereignty principles and p
 
 ## Training & Resources
 
-Explore our training videos and articles on **Substack**:
+Explore our training videos and articles:
 
-[📺 View Training Videos on Substack](https://substack.com/@justreaper)
+- [📺 YouTube Channel](https://youtube.com/@BlancaEnterprises)
+- [📰 Substack Articles](https://substack.com/@justreaper)
 
 ## Getting Started
 
