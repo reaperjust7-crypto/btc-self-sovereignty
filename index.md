@@ -10,6 +10,12 @@ Peer to peer, like it's supposed to be.
 
 This project is dedicated to promoting Bitcoin self-sovereignty principles and peer-to-peer technologies.
 
+## Training & Resources
+
+Explore our training videos and articles on **Substack**:
+
+[📺 View Training Videos on Substack](https://substack.com/@justreaper)
+
 ## Getting Started
 
 Explore the repository to learn more about Bitcoin self-sovereignty and decentralized solutions.
