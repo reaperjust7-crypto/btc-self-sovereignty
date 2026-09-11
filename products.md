@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recommended Products
-permalink: /btc-self-sovereignty/products/
+permalink: /btc-self-sovereignty/products
 ---
 
 # Recommended Products & Tools
