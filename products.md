@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Recommended Products
+permalink: /products/
 ---
 
 # Recommended Products & Tools
